@@ -13,8 +13,8 @@ Contributions by third parties must be dual licensed under the two licenses desc
 
 The launcher is licensed under the GNU Lesser General Public License, version 3.
 The mods that are being downloaded using this launcher use the following licenses:
- - [https://github.com/Camotoy/BedrockSkinUtility](BedrockSkinUtility) - MIT
- - [https://github.com/TeamMidnightDust/BetterBeds](BetterBeds) - MIT
+ - [BedrockSkinUtility](https://github.com/Camotoy/BedrockSkinUtility) - MIT
+ - [BetterBeds](https://github.com/TeamMidnightDust/BetterBeds) - MIT
  - [https://github.com/liachmodded/brandpacket](brandpacket) - MPL-2.0
  - [https://github.com/CaelTheColher/Capes](Fabric Capes) - LGPL-2.1
  - cloth-basic-math - Unknown
