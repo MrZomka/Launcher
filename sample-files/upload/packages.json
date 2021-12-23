@@ -2,17 +2,10 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
+            "name": "",
+            "title": "normalnoshaders",
+            "version": "20211222",
+            "location": "normalnoshaders.json",
             "priority": 1
         }
     ]

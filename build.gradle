@@ -16,7 +16,7 @@ plugins {
 
 println """
 *******************************************
- You are building SKCraft Launcher! 
+ You are building MetaLauncher! 
 
  Output files will be in [subproject]/build/libs
 *******************************************
@@ -27,7 +27,7 @@ subprojects {
     apply plugin: 'maven'
 
     group = 'com.skcraft'
-    version = '4.6-SNAPSHOT'
+    version = '0.0.1'
 
     sourceCompatibility = 1.8
     targetCompatibility = 1.8
