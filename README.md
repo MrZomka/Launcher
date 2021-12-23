@@ -15,25 +15,28 @@ The launcher is licensed under the GNU Lesser General Public License, version 3.
 The mods that are being downloaded using this launcher use the following licenses:
  - [BedrockSkinUtility](https://github.com/Camotoy/BedrockSkinUtility) - MIT
  - [BetterBeds](https://github.com/TeamMidnightDust/BetterBeds) - MIT
- - [https://github.com/liachmodded/brandpacket](brandpacket) - MPL-2.0
- - [https://github.com/CaelTheColher/Capes](Fabric Capes) - LGPL-2.1
+ - [brandpacket](https://github.com/liachmodded/brandpacket) - MPL-2.0
+ - [Fabric Capes](https://github.com/CaelTheColher/Capes) - LGPL-2.1
  - cloth-basic-math - Unknown
- - [https://github.com/jaredlll08/clumpshttps://github.com/jaredlll08/clumps](Clumps) - MIT
- - [https://github.com/juliand665/Dynamic-FPS](Dynamic FPS) - MIT
- - [https://github.com/tr7zw/EntityCulling-Fabric](EntityCulling-Fabric) - MIT
- - [https://github.com/FabricMC/fabric-language-kotlin](Fabric Language Kotlin) - Apache-2.0
- - [https://github.com/Keksuccino/FancyMenu/blob/master/LICENSE.md](FancyMenu) - DSMSL
- - [https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric](FerriteCore) - MIT
- - [https://modrinth.com/mod/indium](Indium) - Apache-2.0
+ - [Clumps](https://github.com/jaredlll08/clumpshttps://github.com/jaredlll08/clumps) - MIT
+ - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS) - MIT
+ - [EntityCulling-Fabric](https://github.com/tr7zw/EntityCulling-Fabric) - MIT
+ - [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin) - Apache-2.0
+ - [FancyMenu](https://github.com/Keksuccino/FancyMenu/blob/master/LICENSE.md) - DSMSL
+ - [FerriteCore Fabric](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - MIT
+ - [Indium](https://modrinth.com/mod/indium) - Apache-2.0
  - Krypton - GPL-3.0
- - [https://github.com/LambdAurora/LambdaBetterGrass](LambdaBetterGrass) - MIT
- - [https://github.com/LambdAurora/LambDynamicLights](LambDynamicLights) - MIT
- - [https://github.com/Jerozgen/LanguageReload](Language Reload) - MIT
+ - [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) - MIT
+ - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) - MIT
+ - [Language Reload](https://github.com/Jerozgen/LanguageReload) - MIT
  - LazyDFU - MIT
- - [https://github.com/logicalgeekboy/logical_zoom](Logical Zoom) - MIT
- - [https://github.com/TerraformersMC/ModMenu](Mod Menu) - MIT
+ - [Logical Zoom](https://github.com/logicalgeekboy/logical_zoom) - MIT
+ - [Mod Menu](https://github.com/TerraformersMC/ModMenu) - MIT
  - Pride Lib - MIT
- - [https://gitlab.com/supersaiyansubtlety/smoke_suppression](Smoke Suppression) - MIT (although the developer allows the code to be ported over to other licenses)
- - [https://github.com/UltimateBoomer/mc-smoothboot](Smooth Boot) - MIT
- - [https://github.com/CaffeineMC/sodium-fabric](Sodium Fabric) - LGPL-3.0-only
- - [https://github.com/PaperMC/Starlight](Starlight) - LGPL-3.0-only
+ - [Smooke Suppression](https://gitlab.com/supersaiyansubtlety/smoke_suppression) - MIT (although the developer allows the code to be ported over to other licenses)
+ - [Smooth Boot](https://github.com/UltimateBoomer/mc-smoothboot) - MIT
+ - [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) - LGPL-3.0-only
+ - [Starlight](https://github.com/PaperMC/Starlight) - LGPL-3.0-only
+
+## To mod authors
+If you want your mod to not be used in this pack, please make an issue. 
