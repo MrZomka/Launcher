@@ -1,7 +1,7 @@
 MetaLauncher
 ================
 
-Not publicly released yet, still WIP.
+In a public beta. Probably won't get out of a public beta state lol
 
 ## Contributing
 
