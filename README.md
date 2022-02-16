@@ -22,7 +22,7 @@ The mods that are being downloaded using this launcher use the following license
  - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS) - MIT
  - [EntityCulling-Fabric](https://github.com/tr7zw/EntityCulling-Fabric) - MIT
  - [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin) - Apache-2.0
- - [FancyMenu](https://github.com/Keksuccino/FancyMenu/blob/master/LICENSE.md) - DSMSL
+ - [FancyMenu](https://github.com/Keksuccino/FancyMenu/) - DSMSL
  - [FerriteCore Fabric](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - MIT
  - [Indium](https://modrinth.com/mod/indium) - Apache-2.0
  - Krypton - GPL-3.0
