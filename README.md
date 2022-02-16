@@ -18,7 +18,7 @@ The mods that are being downloaded using this launcher use the following license
  - [brandpacket](https://github.com/liachmodded/brandpacket) - MPL-2.0
  - [Fabric Capes](https://github.com/CaelTheColher/Capes) - LGPL-2.1
  - cloth-basic-math - Unknown
- - [Clumps](https://github.com/jaredlll08/clumpshttps://github.com/jaredlll08/clumps) - MIT
+ - [Clumps](https://github.com/jaredlll08/clumps) - MIT
  - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS) - MIT
  - [EntityCulling-Fabric](https://github.com/tr7zw/EntityCulling-Fabric) - MIT
  - [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin) - Apache-2.0
