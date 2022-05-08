@@ -33,7 +33,7 @@ The mods that are being downloaded using this launcher use the following license
  - [Logical Zoom](https://github.com/logicalgeekboy/logical_zoom) - MIT
  - [Mod Menu](https://github.com/TerraformersMC/ModMenu) - MIT
  - Pride Lib - MIT
- - [Smooke Suppression](https://gitlab.com/supersaiyansubtlety/smoke_suppression) - MIT (although the developer allows the code to be ported over to other licenses)
+ - [Smoke Suppression](https://gitlab.com/supersaiyansubtlety/smoke_suppression) - MIT (although the developer allows the code to be ported over to other licenses)
  - [Smooth Boot](https://github.com/UltimateBoomer/mc-smoothboot) - MIT
  - [Sodium Fabric](https://github.com/CaffeineMC/sodium-fabric) - LGPL-3.0-only
  - [Starlight](https://github.com/PaperMC/Starlight) - LGPL-3.0-only
